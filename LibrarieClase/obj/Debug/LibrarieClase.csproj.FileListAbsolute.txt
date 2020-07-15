@@ -1,0 +1,6 @@
+D:\Farmacie\Hincu_Andrei\LibrarieClase\bin\Debug\LibrarieClase.dll
+D:\Farmacie\Hincu_Andrei\LibrarieClase\bin\Debug\LibrarieClase.pdb
+D:\Farmacie\Hincu_Andrei\LibrarieClase\obj\Debug\LibrarieClase.csprojAssemblyReference.cache
+D:\Farmacie\Hincu_Andrei\LibrarieClase\obj\Debug\LibrarieClase.csproj.CoreCompileInputs.cache
+D:\Farmacie\Hincu_Andrei\LibrarieClase\obj\Debug\LibrarieClase.dll
+D:\Farmacie\Hincu_Andrei\LibrarieClase\obj\Debug\LibrarieClase.pdb
